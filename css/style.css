@@ -1,0 +1,65 @@
+*{
+    font-family: "Lato", sans-serif;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(241, 241, 241);
+}
+
+h1{
+    color: #1F63FC;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 10px 10px 25px black;
+}
+/* font-size é o tamanho da fonte */
+
+nav{
+margin-left: 115vh;
+}
+
+.links-nav{
+    color: #1F63FC;
+    text-shadow: 10px 10px 25px black;
+    padding: 25px;
+    font-size: 25px; 
+    font-weight: bolder;
+}
+
+.links-da-pag{
+    color: #1F63FC;
+    font-weight: bolder;
+}
+
+p{
+   color: #1F63FC;
+   font-size: 25px;
+   font-weight: 400;
+   word-spacing: 5px;
+   text-align: justify;
+   margin-left: 40px;
+   margin-right: 40px;
+}
+
+li{
+   color: #1F63FC;
+   font-size: 25px;
+   font-weight: 400; 
+   line-height: 50px;
+}
+
+.link-linkedin {
+    background-color: #0A66C2;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: bolder;
+}
+
+/* border-color é a cor da borda 
+   border-radius é para borda ficar arredondada 
+   text-decoration: none O texto não terá nenhuma decoração.
+   font-weight é a propriedade do CSS que controla a espessura (peso) da fonte, ou seja, o quão fina ou grossa ela será.
+*/
