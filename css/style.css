@@ -1,0 +1,112 @@
+*{
+    font-family: "Lato", sans-serif;
+    text-decoration: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+background: #04041a;
+background: linear-gradient(90deg, rgba(4, 4, 26, 1) 28%, rgba(0, 0, 0, 1) 100%);
+}
+
+h1{
+    color: #ffffff;
+    margin-left: 1000px;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    font-size: 50px;
+    text-shadow: 10px 10px 25px rgb(45, 14, 184);
+}
+/* font-size é o tamanho da fonte */
+
+nav{
+margin-left: 1200px;
+}
+
+.links-nav{
+    color: #ffffff;
+    text-shadow: 10px 10px 25px rgb(45, 14, 184);
+    padding: 25px;
+    font-size: 28px; 
+    font-weight: bolder;
+}
+
+
+h2{
+    color: #ffffff;
+    font-weight: bolder;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+
+
+p{
+   color: #ffffff;
+   font-size: 25px;
+   font-weight: 400;
+   word-spacing: 5px;
+   text-align: justify;
+   padding: 15px;
+   margin-right: 150px;
+   margin-left: 100px;
+   margin-top: 20px;
+}
+
+h3{
+   color: #ffffff;
+   text-shadow: 10px 10px 25px rgb(45, 14, 184);
+   font-size: 25px;
+   font-weight: 600; 
+   line-height: 50px;
+   padding: 10px;
+}
+
+.tecnologias{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.tecnologia{
+    display: inline-block;
+    text-align: center;
+}
+
+.link-github {
+    background-color: #000000;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: bolder;
+    
+}
+
+.div-github{
+padding-top: 35px;
+margin-left: 100px;
+margin-top: 20px;
+}
+
+
+.link-linkedin {
+    background-color: #0352a1;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: bolder;
+    
+}
+
+.div-linkedin{
+padding-top: 35px;
+margin-left: 100px;
+margin-top: 20px;
+}
+
+/* border-color é a cor da borda 
+   border-radius é para borda ficar arredondada 
+   text-decoration: none O texto não terá nenhuma decoração.
+   font-weight é a propriedade do CSS que controla a espessura (peso) da fonte, ou seja, o quão fina ou grossa ela será.
+*/
